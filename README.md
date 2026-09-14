@@ -1,143 +1,241 @@
-# Hi 👋, I'm Muhammad Ashraf
+<div align="center">
 
-<h3 align="center">
-Cybersecurity Enthusiast 🔐 | BS Information Technology 🎓 | Network Security 🌐 | Developer 💻
-</h3>
+# 👋 Hi, I'm Muhammad Ashraf
 
-<p align="center">
-Passionate about Cybersecurity, Ethical Hacking, Networking, Linux, and building practical security tools.
-</p>
+### 🔐 Cybersecurity Enthusiast • 🛡️ SOC & Blue Team • 🌐 Network Security • 💻 Security Developer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashrafkakar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+**BS Information Technology Student | Building Security Tools & Secure Applications**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Ashrafkakar&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ashrafkakar-181717?style=for-the-badge\&logo=github)](https://github.com/Ashrafkakar)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:Khan606434@gmail.com)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 BS Information Technology student
-* 🔐 Focused on **Cybersecurity, Ethical Hacking & Network Security**
-* 🛡️ Currently learning **SOC Analysis & Blue Team Security**
-* 🐧 Working with **Linux, Kali Linux & security tools**
-* 🌐 Interested in **Web Application Security & Vulnerability Assessment**
-* 🧠 Exploring **AI-powered Cybersecurity**
-* 🚀 Building practical cybersecurity and open-source projects
-* 🤝 Open to collaboration on **Cybersecurity & Open Source Projects**
-* 📍 Pakistan
-* 📫 **Email:** [Khan606434@gmail.com](mailto:Khan606434@gmail.com)
+```text
+🎓  BS Information Technology Student
+🔐  Cybersecurity & Ethical Hacking Enthusiast
+🛡️  Learning SOC Analysis & Blue Team Operations
+🌐  Interested in Network & Web Application Security
+🐧  Linux / Kali Linux User
+🤖  Exploring AI + Cybersecurity
+🧰  Building Practical Security Tools
+🚀  Open-Source & Continuous Learning
+📍  Pakistan
+```
+
+I enjoy understanding **how systems work, how vulnerabilities occur, and how they can be secured**. My main interests include cybersecurity, network security, web application testing, SOC operations, Linux, security automation, and AI-powered security solutions.
 
 ---
 
-## 🚀 Featured Projects
+# 🛡️ Cybersecurity Arsenal
+
+### 🔎 Reconnaissance & Scanning
+
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
+![Nuclei](https://img.shields.io/badge/Nuclei-00ADEF?style=for-the-badge)
+![Subfinder](https://img.shields.io/badge/Subfinder-222222?style=for-the-badge)
+![Amass](https://img.shields.io/badge/OWASP_Amass-000000?style=for-the-badge\&logo=owasp)
+![WhatWeb](https://img.shields.io/badge/WhatWeb-333333?style=for-the-badge)
+
+### 🌐 Web Application Security
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge\&logo=burpsuite\&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge\&logo=owasp\&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge\&logo=owasp)
+
+### 🌐 Network & Security Analysis
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-blue?style=for-the-badge)
+![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge\&logo=cisco\&logoColor=white)
+
+### 🔑 Security Testing
+
+![Hashcat](https://img.shields.io/badge/Hashcat-111111?style=for-the-badge)
+![John](https://img.shields.io/badge/John_the_Ripper-333333?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-008000?style=for-the-badge)
+
+---
+
+# 💻 Languages & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,mysql,linux,docker,git,github,vscode&perline=12" />
+
+</p>
+
+---
+
+# 🚀 Featured Security Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🛡️ CyberGuard AI
 
-AI-powered cybersecurity platform combining multiple security modules including vulnerability scanning, phishing analysis, password security, SOC analysis, threat intelligence, and more.
+AI-powered cybersecurity platform designed to combine multiple security capabilities into a single application.
 
-[View CyberGuard AI](https://github.com/Ashrafkakar/Site-Code)
+**Modules include:**
 
-### 🔍 SystemScan
+* 🔑 Password Security
+* 🎣 Phishing Analysis
+* 🌐 Web Vulnerability Scanner
+* 🛡️ AI SOC Analyst
+* 🔎 Bug Bounty Recon
+* 🧠 Threat Intelligence
+* 🤖 AI-based Security Features
 
-Linux system information and monitoring tool for quickly collecting important system details.
+**Tech:** Python • Flask • JavaScript • HTML • CSS
 
-[View SystemScan](https://github.com/Ashrafkakar/systemscan)
+[🔗 View Project](https://github.com/Ashrafkakar/Site-Code)
+
+</td>
+
+<td width="50%">
+
+### 🖥️ SystemScan
+
+Linux system information and reconnaissance utility designed to quickly collect important system information.
+
+**Features:**
+
+* Host & OS Information
+* CPU / RAM Details
+* Disk Information
+* Network Information
+* IP Address
+* System Uptime
+
+**Environment:** Linux • Bash
+
+[🔗 View Project](https://github.com/Ashrafkakar/systemscan)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🌐 PortScout
 
-TCP port scanning tool designed to identify open ports and common network services.
+Lightweight TCP port scanning utility for identifying open ports and common network services.
 
-[View My GitHub Projects](https://github.com/Ashrafkakar)
+**Features:**
+
+* TCP Port Scanning
+* Service Detection
+* Host Resolution
+* Simple Terminal Interface
+
+**Focus:** Networking • Security
+
+[🔗 View GitHub](https://github.com/Ashrafkakar)
+
+</td>
+
+<td width="50%">
 
 ### 📖 Quran Pak
 
-An open-source Quran-related project.
+Open-source project created to combine programming practice with useful digital tools.
 
-[View Quran Pak](https://github.com/Ashrafkakar/Quran-pak)
+**Focus:**
 
----
+* Open Source
+* Programming
+* Practical Development
 
-## 🔐 Cybersecurity Skills
+[🔗 View Project](https://github.com/Ashrafkakar/Quran-pak)
 
-**Security Testing**
-
-* Web Application Security
-* Vulnerability Assessment
-* Reconnaissance
-* Network Security
-* SOC Fundamentals
-* OWASP Top 10
-
-**Security Tools**
-
-`Nmap` • `Burp Suite` • `OWASP ZAP` • `Wireshark` • `Nuclei` • `SQLMap` • `Hydra` • `Hashcat` • `John the Ripper`
-
-**Platforms & Environments**
-
-`Kali Linux` • `Linux` • `Windows` • `Docker` • `Git` • `GitHub`
+</td>
+</tr>
+</table>
 
 ---
 
-## 💻 Languages & Technologies
+# 🎯 Security Interests
 
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git"/>
-
-</p>
+```text
+┌──────────────────────────────────────┐
+│  🔐 Web Application Security        │
+│  🛡️ SOC & Blue Team Operations      │
+│  🌐 Network Security                │
+│  🔎 Vulnerability Assessment        │
+│  🐧 Linux Security                  │
+│  🎯 Bug Bounty Hunting              │
+│  🤖 AI for Cybersecurity            │
+│  ⚙️ Security Automation             │
+└──────────────────────────────────────┘
+```
 
 ---
 
-## 📊 GitHub Statistics
+# 🎓 Certifications & Learning
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ashrafkakar&show_icons=true&locale=en&theme=github_dark" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashrafkakar&show_icons=true&locale=en&layout=compact&theme=github_dark" height="165" alt="Top Languages"/>
-</p>
+🏅 **Certified Ethical Hacker (CEH)** — EC-Council
+🏅 **CyberOps / Networking** — Cisco Networking Academy
+🏅 **IoT Cybersecurity** — Cisco Networking Academy
+🏅 **Introduction to Critical Infrastructure Protection** — OPSWAT
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashrafkakar&theme=github-dark-blue" alt="GitHub Streak"/>
-</p>
+Currently strengthening my knowledge in:
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ashrafkakar&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
-</p>
+`SOC Analysis` • `SIEM` • `Incident Response` • `Threat Detection` • `Web Security` • `Network Security`
 
 ---
 
-## 🤝 Connect With Me
+# 📊 GitHub Analytics
 
-<p align="left">
+<div align="center">
 
-<a href="https://github.com/Ashrafkakar">
-<img src="https://img.shields.io/badge/GitHub-Ashrafkakar-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashrafkakar&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<a href="mailto:Khan606434@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashrafkakar&layout=compact&theme=tokyonight&hide_border=true" />
 
-</p>
+<br>
+
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashrafkakar&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-<p align="center">
-<b>💡 Learn • Build • Secure • Repeat</b>
-</p>
+# 🏆 GitHub Achievements
 
-<p align="center">
-Building skills today to secure the systems of tomorrow. 🔐
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ashrafkakar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+### Interested in Cybersecurity, Networking & Open-Source Collaboration
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ashrafkakar-181717?style=for-the-badge\&logo=github)](https://github.com/Ashrafkakar)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Khan606434%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:Khan606434@gmail.com)
+
+<br>
+
+### 🔐 *Learn. Build. Break Ethically. Secure.*
+
+**Building skills today to protect the systems of tomorrow.**
+
+</div>
